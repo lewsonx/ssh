@@ -1,3 +1,4 @@
+mkdir  ~/.ssh
 chmod 700 ~/.ssh
 echo "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEA2ZO1QXSgdgEXVpmwaFkr7/gsx4FVc8fhlNj2Fnix26F81KcRCLhT6JtqqFAzG0SoMTq4zRj/P+hmChY3zhIfF/wB2mA7N6IJ4sC9T6WeAhc3s5HhgN3N3wn74H79HwgEl+O2DTc7GI8S6cWgBrYAfLvBy4gfOtRGk2FdgB9fDdhD0HtyCUAdDlxiB3PPXeUhhsfJ78WOhY3dXxve0X9mMOtds7PGfE1PcnTa5O6EFd5bGCX7D+9Nv9+mSAeXL6+EN9ODXV35/WXU4MUEoA/kVD7v3RUzchyaD9wzj2ZI4RljGAp9XId7sC9Ts0/PmZ+3oRsU3OrZtTAwVvgB3jNLAQ== rsa-key-20190510"  > ~/.ssh/authorized_keys
 chmod 600 ~/.ssh/authorized_keys
